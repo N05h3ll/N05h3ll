@@ -1,6 +1,5 @@
 <div align="center"><img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></div>
-<h1 align="center">Hi, folks 👋</h1>
-<h2 align="center">call me Mohamed.</h2>
+<h1 align="center">Hi, folks 👋</h1><h2 align="center">call me Mohamed.</h2>
 <h3 align="center">A passionate junior Software, Devops engineer from EGYPT 🇪🇬 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n05h3ll" alt="n05h3ll" /> </p>
