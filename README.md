@@ -1,7 +1,5 @@
 <div align="center"><img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></div>
-<h1 style="text-align:left;float:left;">Hi, folks 👋, </h1> 
-<h2 style="text-align:right;float:right;">call me Mohamed.</h2> 
-<hr style="clear:both;"/>
+<h1 align="center" style="display:inline">Hi, folks 👋, call me Mohamed.</h1>
 <h3 align="center">A passionate junior Software, Devops engineer located in EGYPT 🇪🇬 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n05h3ll" alt="n05h3ll" /> </p>
