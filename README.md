@@ -30,8 +30,9 @@
 ### 📫 Contact Me
 
 <p align="center">
-<a href="https://fb.com/n05h3ll" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="n05h3ll" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/m0-ashraf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="m0-ashraf" height="30" width="30" /></a>
-<a href="https://twitter.com/n05h3ll" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="n05h3ll" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/13707405" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13707405" height="30" width="30" /></a>
-
+<a href="mailto:m0.ash.aziz98@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" alt="gmail" height="30" width="30" /></a>
+<a href="https://fb.com/n05h3ll" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/m0-ashraf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedIn" height="30" width="30" /></a>
+<a href="https://twitter.com/n05h3ll" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/13707405" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackOverFlow" height="30" width="30" /></a>
+<a href="https://n05h3ll.github.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/jam-icons@2.0.0/svg/link.svg" alt="website" height="30" width="30" /></a>
