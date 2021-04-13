@@ -1,7 +1,9 @@
 <div align="center"><img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /></div>
 <h1 align="center" style="display:inline">Hi folks 👋, call me Mohamed.</h1>
 <h3 align="center">A passionate junior Software, Devops engineer located in EGYPT 🇪🇬 </h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=N05h3ll&theme=onedark)](https://github.com/N05h3ll/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=N05h3ll)](https://github.com/N05h3ll/github-profile-trophy)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n05h3ll" alt="n05h3ll" /> </p>
 
 - 🌱 I’m currently learning **Vue.js, Building Microservices Infrastructure.**
